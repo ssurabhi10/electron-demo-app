@@ -13,8 +13,8 @@ To start app run following commands:
 
 To create release build run following command:
 
-for linux: npm run package-linux,
+for linux: npm run package-linux
 
-for mac: npm run package-mac,
+for mac: npm run package-mac
 
 for windows: npm run package-win 
