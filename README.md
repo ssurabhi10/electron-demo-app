@@ -2,7 +2,7 @@
 Electron JS
 
 This is the example of ipc and notification alert in electron js. 
-This app sends notification whenever BTC price beats given taeget price.
+This app sends notification whenever BTC price beats given target price.
 
 
 To start app run following commands:
